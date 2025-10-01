@@ -13,7 +13,7 @@ Panduan ini disiapkan untuk **portfolio GitHub**: bagaimana menyiapkan Windows S
 - [LICENSE](LICENSE)
 
 ## Screenshot (contoh)
-> Tambahkan screenshot hasil lab AD DS di sini agar portfolio lebih menarik.
+(screenshot.png)
 
 ## Cara Cepat
 ```powershell
